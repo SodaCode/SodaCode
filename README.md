@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SodaCode
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently real analytics
-- 💞️ I’m looking to collaborate on anything that needs data cleaning
+- 🌱 I’m currently learning real analytics
+- 💞️ I’m looking to collaborate on anything that uses data
 - 📫 You can reach me here!
 
 <!---
