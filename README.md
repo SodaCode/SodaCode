@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SodaCode
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning AI/ML/DL
 - 💞️ I’m looking to collaborate on anything that uses data
 - 📫 You can reach me here!
 
